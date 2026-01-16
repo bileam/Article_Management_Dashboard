@@ -7,7 +7,7 @@ const Utama = () => {
     <div className="flex flex-col ">
       <div className="px-5 py-2 bg-[#334a6a] text-white flex justify-between sticky w-full top-0">
         <div>
-          <h1 className="text-[1.2rem]">Tes FrontEnd sharing Vision</h1>
+          <h1 className="text-[1.2rem]">Article Managemant Dashboard</h1>
         </div>
         <div className="flex gap-4 items-center">
           <img
