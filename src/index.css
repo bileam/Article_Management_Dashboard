@@ -1,0 +1,11 @@
+@import "tailwindcss";
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+theme {
+  --color-kuning: #fdd65f;
+  --color-Navcolor: #334a6a;
+  --color-sidcolor: #fafafa;
+  --color-budcolor: #3376df;
+}
